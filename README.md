@@ -1,4 +1,4 @@
-#Open Source Curriculum for FinOps Foundation Certification Courses
+Open Source Curriculum for FinOps Foundation Certification Courses
 
 This is the the latest version of the curriculum for the following FinOps exams:
 
