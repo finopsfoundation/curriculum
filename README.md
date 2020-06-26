@@ -1,8 +1,8 @@
-# Open Source Curriculum for FinOps Foundation Certification Courses
+# Curriculum for FinOps Certified Practitioner
 
 This is the the latest version of the curriculum for the following FinOps exams:
 
-* Certified FinOps Practitioner (CFOP)
+* FinOps Certified Practitioner (FOCP)
 * Find out more at https://finops.org/certification/ 
 
 If you see any errors with the document, please open an issue here. 
