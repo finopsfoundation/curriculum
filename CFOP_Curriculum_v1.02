@@ -1,52 +1,20 @@
-FinOps Practitioner Exam Curriculum (2020)
+## FinOps Certifed Practitioner Exam Curriculum (2020)
 
-<table>
-  <tr>
-    <td>Challenge of Cloud</td>
-    <td>4</td>
-    <td>8.00%</td>
-  </tr>
-  <tr>
-    <td>What is FinOps & Principles</td>
-    <td>6</td>
-    <td>12.00%</td>
-  </tr>
-  <tr>
-    <td>FinOps Teams & Motivation</td>
-    <td>6</td>
-    <td>12.00%</td>
-  </tr>
-  <tr>
-    <td>FinOps Capabilities</td>
-    <td>14</td>
-    <td>28.00%</td>
-  </tr>
-  <tr>
-    <td>FinOps Lifecycle</td>
-    <td>15</td>
-    <td>30.00%</td>
-  </tr>
-  <tr>
-    <td>Terminology, Cloud Bill</td>
-    <td>5</td>
-    <td>10.00%</td>
-  </tr>
-</table>
+This document provides the curriculum outline of the Knowledge, Skills and Abilities that a FinOps Certified Practitioner (FOCP) can be expected to demonstrate, as well as the specific breakdown of questions in the official Linux Foundation certification exam which can be found at https://training.linuxfoundation.org/certification/catalog/.
 
-
-8% - Challenge of Cloud
+# Challenge of Cloud - 8%
 
 * Understand the challenges of working with Cloud
 
 * Recognize the differences between Cloud and Traditional IT
 
-12% - What is FinOps & FinOps Principles
+# What is FinOps & FinOps Principles - 12%
 
 * Define FinOps
 
 * Understand each of the FinOps Principles
 
-12% - FinOps Teams & Motivation
+# FinOps Teams & Motivation - 12%
 
 * Describe the skills, roles and responsibilities of a FinOps Team
 
@@ -54,19 +22,19 @@ FinOps Practitioner Exam Curriculum (2020)
 
 * Understand what drives a FinOps team’s size, position and makeup
 
-28% - FinOps Capabilities
+# FinOps Capabilities - 28%
 
 * Understand the six pillars of FinOps Capabilities
 
 * Describe the activities associated with each capability
 
-30% - FinOps Lifecycle
+# FinOps Lifecycle - 30%
 
 * Describe the FinOps lifecycle, its phases and purpose
 
 * Understand the basic processes that FinOps teams enact in the FinOps Lifecycle
 
-10% - Terminology & the Cloud Bill
+# Terminology & the Cloud Bill - 10%
 
 * Understand basic cloud, FinOps, DevOps & Finance terminology
 
