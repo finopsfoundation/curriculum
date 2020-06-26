@@ -3,20 +3,20 @@
 This is the the latest version of the curriculum for the following FinOps exams:
 
 ## FinOps Certified Practitioner (FOCP)
-** Understands Fundamentals of FinOps
-** Understands FinOps Principles
-** Able to perform basic FinOps Capabilities
-** Basic qualification for FinOps team members
+* Understands Fundamentals of FinOps
+* Understands FinOps Principles
+* Able to perform basic FinOps Capabilities
+* Basic qualification for FinOps team members
 
 ## FinOps Certified Associate _(2021)_
-** Deep understanding of FinOps Capabilities
-** Deeper maturity in each Capability
-** Vendor specific content and experiences
+* Deep understanding of FinOps Capabilities
+* Deeper maturity in each Capability
+* Vendor specific content and experiences
 
 ## FinOps Professional _(TBD)_
-** Expert level workshops on specific Capabilities
-** Technical and Automation coverage
-** Vendor specific content and experiences
+* Expert level workshops on specific Capabilities
+* Technical and Automation coverage
+* Vendor specific content and experiences
 
 Find out more at https://finops.org/certification/ 
 
