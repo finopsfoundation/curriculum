@@ -1,6 +1,6 @@
 # Curriculum for FinOps Certified Practitioner
 
-This is the the latest version of the curriculum for the following FinOps exams:
+This is the the [https://github.com/finopsfoundation/curriculum/blob/master/CFOP_Curriculum_v102.md](latest version) of the curriculum for the following FinOps exams:
 
 ## FinOps Certified Practitioner (FOCP)
 * Understands Fundamentals of FinOps
