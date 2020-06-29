@@ -3,6 +3,7 @@
 Follow this link for the the [latest version](https://github.com/finopsfoundation/curriculum/blob/master/CFOP_Curriculum_v102.md) of the curriculum for the following FinOps exams.
 
 ## FinOps Certified Practitioner (FOCP)
+https://training.linuxfoundation.org/certification/certified-finops/
 * Understands Fundamentals of FinOps
 * Understands FinOps Principles
 * Able to perform basic FinOps Capabilities
