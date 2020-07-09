@@ -1,4 +1,4 @@
-# FinOps Certifed Practitioner Exam Curriculum (2020)
+# FinOps Certified Practitioner Exam Curriculum (2020)
 
 This document provides the curriculum outline of the Knowledge, Skills and Abilities that a FinOps Certified Practitioner (FOCP) can be expected to demonstrate, as well as the specific breakdown of questions in the official Linux Foundation certification exam which can be found at https://training.linuxfoundation.org/certification/catalog/.
 
