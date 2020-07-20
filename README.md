@@ -8,13 +8,14 @@ https://training.linuxfoundation.org/certification/certified-finops/
 * Understands FinOps Principles
 * Able to perform basic FinOps Capabilities
 * Basic qualification for FinOps team members
+* Curriculum [latest version](https://github.com/finopsfoundation/curriculum/blob/master/CFOP_Curriculum_v102.md)
 
 ## FinOps Certified Associate _(2021)_
 * Deep understanding of FinOps Capabilities
 * Deeper maturity in each Capability
 * Vendor specific content and experiences
 
-## FinOps Professional _(TBD)_
+## FinOps Professional _(2021)_
 * Expert level workshops on specific Capabilities
 * Technical and Automation coverage
 * Vendor specific content and experiences
